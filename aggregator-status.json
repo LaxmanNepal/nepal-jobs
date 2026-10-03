@@ -1,11 +1,19 @@
 {
-  "updatedAt": "2026-10-03T21:13:08Z",
+  "updatedAt": "2026-10-03T23:14:28Z",
   "connectors": {
     "nepalImpact": {
       "enabled": true,
       "recordsFetched": 89,
       "recordsImported": 63,
       "endpoint": "https://nepalimpact.org/api/v1/opportunities"
+    },
+    "psc": {
+      "enabled": true,
+      "recordsImported": 0,
+      "endpoints": [
+        "https://psc.gov.np/category/notice-advertisement",
+        "https://psc.gov.np/category/sangathit-vacancies"
+      ]
     }
   },
   "message": "Nepal Impact jobs are fetched from its documented public API; upstream source evidence is preserved."
