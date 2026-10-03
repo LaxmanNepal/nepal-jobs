@@ -15,8 +15,8 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
-JOBS_PATH=ROOT/"jobs/jobs.json"
-STATUS_PATH=ROOT/"jobs/aggregator-status.json"
+JOBS_PATH=ROOT/"jobs.json"
+STATUS_PATH=ROOT/"aggregator-status.json"
 API="https://nepalimpact.org/api/v1/opportunities"
 PSC_URLS=["https://psc.gov.np/category/notice-advertisement","https://psc.gov.np/category/sangathit-vacancies"]
 
