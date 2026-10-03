@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Public Service Commission Nepal",
+    "type": "official",
+    "url": "https://psc.gov.np/category/notice-advertisement",
+    "category": "सरकारी"
+  },
+  {
+    "name": "PSC Organised Institutions",
+    "type": "official",
+    "url": "https://psc.gov.np/category/sangathit-vacancies",
+    "category": "सरकारी"
+  },
+  {
+    "name": "Nepal Impact Opportunities",
+    "type": "open-api-rss",
+    "url": "https://nepalimpact.org/jobs",
+    "category": "संस्था / NGO / INGO",
+    "notes": "Use its documented opportunities API/RSS; preserve upstream source attribution."
+  },
+  {
+    "name": "JobsNepal",
+    "type": "portal",
+    "url": "https://www.jobsnepal.com/",
+    "category": "निजी"
+  },
+  {
+    "name": "EducateNepal",
+    "type": "portal",
+    "url": "https://www.educatenepal.com/vacancies",
+    "category": "निजी"
+  }
+]
