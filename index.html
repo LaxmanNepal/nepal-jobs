@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ne">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f7f8fb">
+<meta name="description" content="नेपालका सरकारी, निजी, बैंकिङ, NGO/INGO, शिक्षा, IT र अन्य रोजगारीका अवसर खोज्ने Job Portal। Qualification, location, experience, deadline र Apply link सहित।">
+<link rel="canonical" href="https://laxmannepal.com.np/">
+<meta property="og:title" content="Nepal Jobs — सरकारी, निजी र संस्था रोजगारी">
+<meta property="og:description" content="Qualification, experience, location र deadline अनुसार नेपालका jobs खोज्नुहोस्।">
+<meta property="og:type" content="website"><meta property="og:url" content="https://laxmannepal.com.np/">
+<title>Nepal Jobs — सरकारी, निजी र संस्था रोजगारी</title>
+<link rel="stylesheet" href="/jobs.css"><link rel="stylesheet" href="./jobs.css">
+<meta name="jobs-deploy-check" content="2026-10-03"></head>
+<body>
+<header class="jobs-header">
+<a class="jobs-brand" href="/" aria-label="Nepal Jobs home"><span class="jobs-logo">LN</span><span><strong>Nepal Jobs</strong><small>Verified Nepal vacancy portal</small></span></a>
+<nav aria-label="Main navigation"><a href="/">Home</a><a href="/">YouTube Tools</a><a class="active" href="/">Jobs</a></nav>
+<a class="jobs-header-btn" href="#jobs">Browse Jobs</a>
+</header>
+<main>
+<section class="jobs-hero"><div class="jobs-wrap">
+<span class="eyebrow">🇳🇵 NEPAL JOBS PORTAL</span>
+<h1>नेपालमा आफ्नो <em>अर्को job</em> खोज्नुहोस्।</h1>
+<p>सरकारी, निजी, बैंकिङ, NGO/INGO, शिक्षा, IT र अन्य संस्थाका अवसरहरू एउटै ठाउँमा। Qualification, experience, location र deadline हेरेर Apply गर्नुहोस्।</p>
+<div class="hero-search"><span>⌕</span><input id="heroSearch" type="search" placeholder="Job title, company, skill वा location खोज्नुहोस्…" autocomplete="off"><button id="heroSearchBtn">Search</button></div>
+<div class="quick-cats" id="quickCats"></div>
+<div class="hero-stats"><div><strong id="totalJobs">0</strong><span>Jobs</span></div><div><strong id="openJobs">0</strong><span>Open</span></div><div><strong id="orgCount">0</strong><span>Organizations</span></div></div>
+</div></section>
+<section class="jobs-wrap portal" id="jobs">
+<div class="portal-top"><div><span class="eyebrow">JOB DIRECTORY</span><h2>नयाँ अवसरहरू</h2><p id="resultText">Jobs loading…</p></div><div class="sort-box"><label for="sort">Sort</label><select id="sort"><option value="latest">Latest</option><option value="deadline">Deadline</option><option value="salary">Salary</option></select></div></div>
+<div class="filter-layout">
+<aside class="filters" aria-label="Job filters">
+<div class="filter-head"><strong>Filter Jobs</strong><button id="clearFilters">Clear</button></div>
+<label>Category<select id="category"><option value="">All categories</option><option>सरकारी</option><option>निजी</option><option>संस्था / NGO / INGO</option><option>बैंकिङ / वित्त</option><option>शिक्षा</option><option>IT / Technology</option><option>स्वास्थ्य</option><option>अन्य</option></select></label>
+<label>Qualification<select id="qualification"><option value="">Any qualification</option><option>SEE</option><option>+2</option><option>Bachelor</option><option>Master</option><option>Diploma</option><option>Technical</option></select></label>
+<label>Location<select id="location"><option value="">All Nepal</option><option>Kathmandu</option><option>Hetauda</option><option>Pokhara</option><option>Biratnagar</option><option>Chitwan</option><option>Butwal</option><option>Remote</option></select></label>
+<label>Experience<select id="experience"><option value="">Any experience</option><option>Fresher</option><option>1–2 years</option><option>2–5 years</option><option>5+ years</option></select></label>
+<label class="check"><input id="remote" type="checkbox"> Remote / Work from home</label>
+</aside>
+<div class="results"><div class="active-filters" id="activeFilters"></div><div id="jobGrid" class="job-grid"></div>
+<div id="emptyState" class="empty" hidden><div>⌕</div><h3>तपाईंको filter अनुसार job भेटिएन।</h3><p>Search वा filters हटाएर फेरि प्रयास गर्नुहोस्।</p><button id="emptyClear">Clear filters</button></div></div>
+</div></section>
+<section class="jobs-wrap trust"><div><span class="eyebrow">IMPORTANT</span><h2>Apply गर्नु अघि vacancy verify गर्नुहोस्।</h2><p>यो portal ले job information व्यवस्थित गर्छ। Application को अन्तिम अधिकार सम्बन्धित employer/source को हुन्छ। Deadline, qualification, fee र application instructions official notice मा जाँच गर्नुहोस्।</p></div><div class="trust-points"><span>✓ Qualification स्पष्ट</span><span>✓ Deadline देखिने</span><span>✓ Direct Apply link</span><span>✓ Bookmark locally</span></div></section>
+</main>
+<div class="modal" id="jobModal" aria-hidden="true"><div class="modal-backdrop" data-close></div><article class="modal-card"><button class="modal-close" data-close aria-label="Close">×</button><div id="modalContent"></div></article></div>
+<script src="./jobs.js" defer></script>
+</body></html>
