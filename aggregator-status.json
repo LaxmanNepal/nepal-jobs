@@ -1,0 +1,12 @@
+{
+  "updatedAt": "2026-10-03T21:13:08Z",
+  "connectors": {
+    "nepalImpact": {
+      "enabled": true,
+      "recordsFetched": 89,
+      "recordsImported": 63,
+      "endpoint": "https://nepalimpact.org/api/v1/opportunities"
+    }
+  },
+  "message": "Nepal Impact jobs are fetched from its documented public API; upstream source evidence is preserved."
+}
