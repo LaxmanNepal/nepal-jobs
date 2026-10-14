@@ -1,63 +1,5 @@
 [
   {
-    "id": "live-psc-2026-10",
-    "title": "Public Service Commission — Current Advertisements",
-    "organization": "Public Service Commission (Lok Sewa Aayog)",
-    "category": "सरकारी",
-    "location": "Nepal",
-    "qualification": "Bachelor",
-    "experience": "Not specified",
-    "salary": "Government scale",
-    "salaryMax": 0,
-    "deadline": "2026-10-13",
-    "posted": "2026-10-02",
-    "type": "Government",
-    "remote": false,
-    "verified": true,
-    "source": "Public Service Commission Nepal",
-    "description": "The Public Service Commission's current advertisement pages contain active and recent government recruitment notices. Open the official page to choose the specific advertisement and verify its deadline and qualification.",
-    "requirements": [
-      "Post-specific qualification varies",
-      "Check age, inclusion and examination requirements",
-      "Use only the official PSC notice for final application details"
-    ],
-    "skills": [
-      "Government Service",
-      "Public Administration"
-    ],
-    "applyUrl": "https://psc.gov.np/category/notice-advertisement",
-    "lastVerified": "2026-10-13T22:45:34Z"
-  },
-  {
-    "id": "live-educate-everest-2026-10-13",
-    "title": "Vacancy — Everest Bank Limited",
-    "organization": "Everest Bank Limited",
-    "category": "बैंकिङ / वित्त",
-    "location": "Nepal",
-    "qualification": "Bachelor",
-    "experience": "Not specified",
-    "salary": "As per bank",
-    "salaryMax": 0,
-    "deadline": "2026-10-13",
-    "posted": "2026-10-02",
-    "type": "Full-time",
-    "remote": false,
-    "verified": true,
-    "source": "EducateNepal",
-    "description": "Current Everest Bank vacancy notice listed by EducateNepal. Confirm the exact position, qualification and official application instructions before applying.",
-    "requirements": [
-      "Check the exact qualification in the vacancy notice",
-      "Check position-specific experience requirements",
-      "Use the bank's stated application process"
-    ],
-    "skills": [
-      "Banking",
-      "Customer Service"
-    ],
-    "applyUrl": "https://www.educatenepal.com/vacancies",
-    "lastVerified": "2026-10-13T22:45:34Z"
-  },
-  {
     "id": "ni-various-positions-good-neighbors-international-nepal-2026-10-14",
     "title": "Various Positions",
     "organization": "Good Neighbors International Nepal",
@@ -78,7 +20,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_e400da59fa65ba",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_e400da59fa65ba",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-finance-admin-officer-fao-save-the-saptari-rajbiraj-2026-10-15",
@@ -101,7 +43,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_cc289630eb4071",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_cc289630eb4071",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-national-institutional-capacity-assessment-consultant-remote-with-travel-for-4-months-unicef-nepal-2026-1",
@@ -126,7 +68,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_cff6064b31771b",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_cff6064b31771b",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-national-institutional-capacity-assessment-consultant-kathmandu-unicef-united-nations-children-s-fund-202",
@@ -151,7 +93,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_4ba0f4d83934dc",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_4ba0f4d83934dc",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-psychosocial-counselling-officer-rural-development-centre-nepal-2026-10-15",
@@ -174,7 +116,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_555933a797e753",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_555933a797e753",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-social-behaviour-change-specialist-no-3-ft-00137825-kathmandu-nepal-apr-open-only-for-nepalese-nationals-",
@@ -199,7 +141,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_f45340be3a60f8",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_f45340be3a60f8",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-social-behaviour-change-specialist-kathmandu-unicef-united-nations-children-s-fund-2026-10-15",
@@ -224,7 +166,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_438ee69fa4dc3a",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_438ee69fa4dc3a",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-teach-for-nepal-fellowship-2027-teach-for-nepal-2026-10-15",
@@ -247,7 +189,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_mer_0de592a93707b4",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_mer_0de592a93707b4",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-various-positions-roster-call-caritas-nepal-2026-10-15",
@@ -270,7 +212,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_51c51cba6b45c1",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_51c51cba6b45c1",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-finance-assistant-nepal-local-consultant-project-hope-2026-10-16",
@@ -295,7 +237,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_rw_55eacb20179d7b",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_rw_55eacb20179d7b",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-trainee-s2gesi-giz-nepal-2026-10-16",
@@ -318,7 +260,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_mer_a4fc5f3034796f",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_mer_a4fc5f3034796f",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-trainee-s2hss-ii-giz-nepal-2026-10-16",
@@ -341,7 +283,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_mer_ba008907c879f4",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_mer_ba008907c879f4",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "live-educate-embassy-india-2026-10-16",
@@ -370,7 +312,7 @@
       "Communication"
     ],
     "applyUrl": "https://www.educatenepal.com/vacancies",
-    "lastVerified": "2026-10-13T22:45:34Z"
+    "lastVerified": "2026-10-14T04:55:05Z"
   },
   {
     "id": "ni-call-for-quotation-bid-swisscontact-swiss-foundation-for-technical-cooperation-2026-10-17",
@@ -393,7 +335,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_500aa6aa7d9220",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_500aa6aa7d9220",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-inclusive-assessment-consultant-kathmandu-nepal-unicef-united-nations-children-s-fund-2026-10-17",
@@ -418,7 +360,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_1beed2bc21c3fa",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_1beed2bc21c3fa",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-inclusive-assessment-consultant-kathmandu-nepal-8-months-nationals-only-remote-with-travel-unicef-nepal-2",
@@ -443,7 +385,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_5dd5a300f10fac",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_5dd5a300f10fac",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-construction-coordinator-open-to-all-applicants-fixed-term-employment-until-march-2028-based-in-regional-",
@@ -468,7 +410,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_ain_6619a179fb183b",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_ain_6619a179fb183b",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-finance-coordinator-open-to-all-applicants-fixed-term-employment-until-march-2028-based-in-regional-offic",
@@ -493,7 +435,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_ain_c0df953a1e615b",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_ain_c0df953a1e615b",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-monitoring-evaluation-research-and-learning-coordinator-open-to-all-applicants-fixed-term-employment-unti",
@@ -518,7 +460,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_ain_b1ea60816727ac",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_ain_b1ea60816727ac",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-supply-logistics-officer-no2-ft-137744-kathmandu-nepal-apro-unicef-nepal-2026-10-18",
@@ -543,7 +485,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_b21e382ac8a138",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_b21e382ac8a138",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-supply-logistics-officer-kathmandu-unicef-united-nations-children-s-fund-2026-10-18",
@@ -568,7 +510,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_09d68bc145668c",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_09d68bc145668c",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-vacancy-announcement-various-positions-iv-world-vision-international-nepal-2026-10-18",
@@ -591,7 +533,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_7c667284b6e42a",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_7c667284b6e42a",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-various-positions-plan-international-nepal-2026-10-18",
@@ -614,7 +556,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_e1e8fd30df0554",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_e1e8fd30df0554",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-disaster-risk-management-drm-consultant-21-5-months-kathmandu-office-based-with-travel-open-for-national-",
@@ -640,7 +582,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_453bf4f81892a1",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_453bf4f81892a1",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-disaster-risk-management-drm-consultant-kathmandu-unicef-united-nations-children-s-fund-2026-10-19",
@@ -666,7 +608,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_3c81dc7b1232ca",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_3c81dc7b1232ca",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-various-positions-united-mission-to-nepal-2026-10-19",
@@ -689,7 +631,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_88894063c80eca",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_88894063c80eca",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-consultant-web-based-information-platform-hhs-data-digitalization-website-integration-international-feder",
@@ -712,7 +654,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_20afab37221427",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_20afab37221427",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-drm-consultant-field-based-surkhet-fo-nepal-18-months-office-based-with-possible-travel-nationals-only-59",
@@ -737,7 +679,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_2b5ef54cd25eb3",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_un-nepal_2b5ef54cd25eb3",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-drm-consultant-field-based-surkhet-nepal-unicef-united-nations-children-s-fund-2026-10-20",
@@ -762,7 +704,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_3707ecb0782ba7",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_3707ecb0782ba7",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-mhpss-coordinator-terre-des-hommes-foundation-2026-10-20",
@@ -785,7 +727,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_ain_fe6828465cf7eb",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_ain_fe6828465cf7eb",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-mental-health-and-psychosocial-support-mhpss-coordinator-re-advertisement-terre-des-hommes-foundation-tdh",
@@ -810,7 +752,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_62da4d2708935e",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_62da4d2708935e",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-finance-assistant-consultant-nepal-project-hope-2026-10-22",
@@ -833,7 +775,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_deed60b79b664d",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_deed60b79b664d",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-project-officer-plan-international-nepal-2026-10-22",
@@ -856,7 +798,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_ea793e031e3edb",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_ea793e031e3edb",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-project-officer-open-to-all-applicants-short-term-employment-until-february-2027-based-in-nuwakot-plan-in",
@@ -881,7 +823,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_ain_6657d4d60e4e0a",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_ain_6657d4d60e4e0a",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-wi",
@@ -907,7 +849,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_defc74df8ccfcd",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_defc74df8ccfcd",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-associate-environment-officer-kathmandu-unesco-united-nations-educational-scientific-and-cultural-organiz",
@@ -933,7 +875,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_2cadd64dc18248",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_2cadd64dc18248",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-development-coordination-officer-environment-and-climate-change-kathmandu-unv-united-nations-volunteers-2",
@@ -958,7 +900,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_b3497b442c4369",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_b3497b442c4369",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-senior-officer-program-delivery-information-technology-helen-keller-international-2026-10-25",
@@ -981,7 +923,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_ain_4cb78d4a61eaa8",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_ain_4cb78d4a61eaa8",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-technology-for-development-specialist-no-3-fixed-term-position-00124168-kathmandu-nepal-country-office-un",
@@ -1006,7 +948,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_f88442c008ebc9",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_f88442c008ebc9",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-global-remuneration-specialist-helvetas-nepal-2026-10-26",
@@ -1029,7 +971,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_ain_9ec8d3204ed58d",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_ain_9ec8d3204ed58d",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-grant-finance-officer-gfo-child-fund-japan-2026-10-26",
@@ -1054,7 +996,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_ain_ae6d7ef55868e0",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_ain_ae6d7ef55868e0",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-project-officer-bbc-media-action-nepal-2026-10-26",
@@ -1077,7 +1019,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_ain_23e9073c55d56e",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_ain_23e9073c55d56e",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-various-positions-prosper-global-2026-10-26",
@@ -1100,7 +1042,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_ad412b5313303c",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_ad412b5313303c",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-various-positions-li-bird-2026-10-27",
@@ -1123,7 +1065,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_0868ca737bc231",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_0868ca737bc231",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-consultant-vocational-training-service-international-federation-of-red-cross-and-red-crescent-societies-i",
@@ -1148,7 +1090,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_02d9d6ea377274",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_02d9d6ea377274",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-finance-manager-terre-des-hommes-foundation-tdh-2026-10-28",
@@ -1171,7 +1113,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_435c0da3cae7f8",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_435c0da3cae7f8",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-health-wash-program-manager-terre-des-hommes-foundation-tdh-2026-10-28",
@@ -1196,7 +1138,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_2a628d8b6847db",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_2a628d8b6847db",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-program-officer-pragya-solutions-for-sustainable-development-pvt-ltd-2026-10-28",
@@ -1219,7 +1161,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_cfda9f25ec8d40",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_cfda9f25ec8d40",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-request-for-bid-construction-of-store-for-the-health-section-of-gosainkunda-rural-municipality-one-heart-",
@@ -1244,7 +1186,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_e05c4602784636",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_e05c4602784636",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-wash-facilitator-professional-roster-samvaad-nepal-pvt-ltd-2026-10-28",
@@ -1269,7 +1211,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_021e37e19d7e87",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_021e37e19d7e87",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-country-director-dzi-foundation-2026-10-30",
@@ -1292,7 +1234,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_9a2d02661b4964",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_9a2d02661b4964",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-meal-manager-koshish-2026-10-30",
@@ -1315,7 +1257,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_1eb3425e4f2c3e",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_1eb3425e4f2c3e",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-supply-chain-officer-nepal-local-consultant-project-hope-2026-10-31",
@@ -1340,7 +1282,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_rw_757bdca8f32a39",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_rw_757bdca8f32a39",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-wash-technical-advisor-nepal-local-consultant-project-hope-2026-10-31",
@@ -1366,7 +1308,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_rw_cdbec948bd0c54",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_rw_cdbec948bd0c54",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-coordinator-united-nations-university-unu-hub-fixed-term-project-position-international-centre-for-integr",
@@ -1391,7 +1333,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_rw_dea8175e2ea58d",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_rw_dea8175e2ea58d",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-coordinator-united-nations-university-unu-hub-fixed-term-project-position-icimod-2026-11-01",
@@ -1414,7 +1356,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_ain_9b1d0a1e438e92",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_ain_9b1d0a1e438e92",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-coordinator-united-nations-university-unu-hub-fixed-term-project-position-international-centre-for-integr",
@@ -1439,7 +1381,30 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_icimod_2a73a1eccca4d8",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_icimod_2a73a1eccca4d8",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
+  },
+  {
+    "id": "ni-international-consultant-rainbow-trout-grow-out-hatchery-genetics-and-feed-lalitpur-nepal-corus-internati",
+    "title": "International Consultant - Rainbow Trout Grow out, Hatchery, Genetics and Feed, Lalitpur, Nepal",
+    "organization": "Corus International (Corus)",
+    "category": "संस्था / NGO / INGO",
+    "location": "Nepal",
+    "qualification": "Not specified",
+    "experience": "Not specified",
+    "salary": "Not disclosed",
+    "salaryMax": 0,
+    "deadline": "2026-11-01",
+    "posted": "2026-11-01",
+    "type": "Full-time",
+    "remote": false,
+    "verified": true,
+    "source": "Nepal Impact",
+    "description": "International Consultant - Rainbow Trout Grow out, Hatchery, Genetics and Feed, Lalitpur, Nepal at Corus International (Corus). Check the original source for complete details.",
+    "requirements": [],
+    "skills": [],
+    "applyUrl": "https://nepalimpact.org/opportunities/opp_uj_a25a9d5d2e63d6",
+    "sourceUrl": "https://nepalimpact.org/opportunities/opp_uj_a25a9d5d2e63d6",
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-supply-chain-officer-nepal-consultant-project-hope-2026-11-04",
@@ -1462,7 +1427,7 @@
     "skills": [],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_0b01faa4201ee7",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_0b01faa4201ee7",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-wash-technical-advisor-nepal-consultant-project-hope-2026-11-04",
@@ -1487,7 +1452,7 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_feb9246fe05357",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_feb9246fe05357",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-saathi-teachers-helambu-education-and-livelihood-partnership-help-2026-11-07",
@@ -1512,7 +1477,32 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_job_756c2c759ab5d2",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_job_756c2c759ab5d2",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
+  },
+  {
+    "id": "ni-saathi-teacher-helambu-education-and-livelihood-partnership-2026-11-09",
+    "title": "Saathi Teacher",
+    "organization": "Helambu Education and Livelihood Partnership",
+    "category": "संस्था / NGO / INGO",
+    "location": "Nepal",
+    "qualification": "Not specified",
+    "experience": "Not specified",
+    "salary": "Not disclosed",
+    "salaryMax": 0,
+    "deadline": "2026-11-09",
+    "posted": "2026-11-09",
+    "type": "Full-time",
+    "remote": false,
+    "verified": true,
+    "source": "Nepal Impact",
+    "description": "Saathi Teacher at Helambu Education and Livelihood Partnership. Check the original source for complete details.",
+    "requirements": [],
+    "skills": [
+      "Education"
+    ],
+    "applyUrl": "https://nepalimpact.org/opportunities/opp_mer_8402502995f6c4",
+    "sourceUrl": "https://nepalimpact.org/opportunities/opp_mer_8402502995f6c4",
+    "lastVerified": "2026-10-14T04:55:06Z"
   },
   {
     "id": "ni-national-intern-full-or-part-time-peace-brigades-international-2026-12-31",
@@ -1537,6 +1527,6 @@
     ],
     "applyUrl": "https://nepalimpact.org/opportunities/opp_rw_e54987b7aa8ab4",
     "sourceUrl": "https://nepalimpact.org/opportunities/opp_rw_e54987b7aa8ab4",
-    "lastVerified": "2026-10-13T22:45:35Z"
+    "lastVerified": "2026-10-14T04:55:06Z"
   }
 ]
