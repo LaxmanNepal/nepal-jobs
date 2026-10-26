@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T20:52:03Z",
-  "activeJobs": 64,
+  "updatedAt": "2026-10-26T04:48:27Z",
+  "activeJobs": 55,
   "expiredRemoved": 0,
   "automation": "GitHub Actions",
   "refreshInterval": "Every 6 hours"
