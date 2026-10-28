@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-10-28T05:43:47Z",
+  "updatedAt": "2026-10-28T12:56:20Z",
   "connectors": {
     "nepalImpact": {
       "enabled": true,
-      "failed": true,
-      "endpoint": "https://nepalimpact.org/api/v1/opportunities",
-      "error": "The read operation timed out"
+      "recordsFetched": 68,
+      "recordsImported": 49,
+      "endpoint": "https://nepalimpact.org/api/v1/opportunities"
+    },
+    "psc": {
+      "enabled": true,
+      "recordsImported": 0,
+      "endpoints": [
+        "https://psc.gov.np/category/notice-advertisement",
+        "https://psc.gov.np/category/sangathit-vacancies"
+      ]
     }
   },
-  "message": "Connector failure did not overwrite the existing jobs dataset."
+  "message": "Nepal Impact jobs are fetched from its documented public API; upstream source evidence is preserved."
 }
