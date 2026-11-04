@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-04T06:23:48Z",
+  "updatedAt": "2026-11-04T19:46:29Z",
   "connectors": {
     "nepalImpact": {
       "enabled": true,
-      "recordsFetched": 59,
-      "recordsImported": 39,
+      "recordsFetched": 58,
+      "recordsImported": 38,
       "endpoint": "https://nepalimpact.org/api/v1/opportunities"
     },
     "psc": {
